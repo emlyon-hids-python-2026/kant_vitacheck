@@ -192,4 +192,4 @@ More in [docs/project_documentation/development.md](docs/project_documentation/d
 
 ## Author
 
-Cao Tri DO - [do@em-lyon.com](mailto:do@em-lyon.com)
+Samuel Kant - [samuel.kant@edu.em-lyon.com](mailto:samuel.kant@edu.em-lyon.com)
